@@ -1,0 +1,17 @@
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+}
+
+.component {
+    background-color: rgb(220, 220, 220);
+}
+
+.btn {
+    background-color: rgb(101, 163, 99);
+    color: white;
+}
